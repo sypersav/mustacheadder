@@ -1,7 +1,7 @@
 nose_x = 0
 nose_y = 0
 function preload() {
-mustache = loadImage('https://postimg.cc/bsV5tR30');
+mustache = loadImage('https://i.postimg.cc/JzHb00LH/m.png');
 }
 
 function setup() {
